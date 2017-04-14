@@ -1,0 +1,8 @@
+# Output
+*.o
+*.so
+c-runo
+
+# VIM
+.*.sw?
+
